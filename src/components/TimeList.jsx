@@ -3,10 +3,6 @@ import times from '../database/times.json';
 
 const TimeList = () => {
 
-    for (let i = 0;i < times.length;i++) {
-
-    }
-
     return (
         <div className="time-list">
         {times.map((time) => (

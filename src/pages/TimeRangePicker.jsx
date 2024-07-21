@@ -16,26 +16,25 @@ const TimeRangePicker = () => {
   const [excludedRanges, setExcludedRanges] = useState([]);
 
   const handleAddTimeRange = () => {
-    if (!startTime || !endTime) return;
+    if (!startTime || !endTime) return;//Checks if values are not null
 
-    const newRange = { startTime, endTime };
+    const newRange = { startTime, endTime };//Stores time ranges(startTime, endTime) in a variable
 
     const isExcluded = excludedRanges.some((range) => {
       return (
         dayjs(startTime).isBetween(range.startTime, range.endTime, null, '[)') ||
-        dayjs(endTime).isBetween(range.startTime, range.endTime, null, '(]')
+        dayjs(endTime).isBetween(range.startTime, range.endTime, null, '(]')//Checks if either the start time or end time is conflicting with the existing start times and end times 
       );
     });
 
     if (!isExcluded) {
-      setTimeRanges([...timeRanges, newRange]);
-      setExcludedRanges([...excludedRanges, newRange]);
-      setStartTime(null);
-      setEndTime(null);
+      setTimeRanges([...timeRanges, newRange]);//Same Thing, set what time ranges get displayed
+      setExcludedRanges([...excludedRanges, newRange]);//Same
+      setStartTime(null);//When you select start time
+      setEndTime(null);//select end time
     } else {
       alert('Selected range conflicts with an excluded range.');
     }
-    console.log(timeRanges)
   };
 
   return (
