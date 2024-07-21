@@ -1,0 +1,127 @@
+[
+    {
+        "time": "0:00",
+        "displayTime": "12:00 am",
+        "reserved": true
+    },
+    {
+        "time": "1:00",
+        "displayTime": "1:00 am",
+        "reserved": true
+    },
+    {
+        "time": "2:00",
+        "displayTime": "2:00 am",
+        "reserved": true
+    },
+    {
+        "time": "3:00",
+        "displayTime": "3:00 am",
+        "reserved": false
+    },
+    {
+        "time": "4:00",
+        "displayTime": "4:00 am",
+        "reserved": false
+    },
+    {
+        "time": "5:00",
+        "displayTime": "5:00 am",
+        "reserved": false
+    },
+    {
+        "time": "6:00",
+        "displayTime": "6:00 am",
+        "reserved": false
+    },
+    {
+        "time": "7:00",
+        "displayTime": "7:00 am",
+        "reserved": false
+    },
+    {
+        "time": "8:00",
+        "displayTime": "8:00 am",
+        "reserved": false
+    },
+    {
+        "time": "9:00",
+        "displayTime": "9:00 am",
+        "reserved": true
+    },
+    {
+        "time": "10:00",
+        "displayTime": "10:00 am",
+        "reserved": true
+    },
+    {
+        "time": "11:00",
+        "displayTime": "11:00 am",
+        "reserved": true
+    },
+    {
+        "time": "12:00",
+        "displayTime": "12:00 pm",
+        "reserved": false
+    },
+    {
+        "time": "13:00",
+        "displayTime": "1:00 pm",
+        "reserved": false
+    },
+    {
+        "time": "14:00",
+        "displayTime": "2:00 pm",
+        "reserved": false
+    },
+    {
+        "time": "15:00",
+        "displayTime": "3:00 pm",
+        "reserved": false
+    },
+    {
+        "time": "16:00",
+        "displayTime": "4:00 pm",
+        "reserved": false
+    },
+    {
+        "time": "17:00",
+        "displayTime": "5:00 pm",
+        "reserved": false
+    },
+    {
+        "time": "18:00",
+        "displayTime": "6:00 pm",
+        "reserved": false
+    },
+    {
+        "time": "19:00",
+        "displayTime": "7:00 pm",
+        "reserved": false
+    },
+    {
+        "time": "20:00",
+        "displayTime": "8:00 pm",
+        "reserved": false
+    },
+    {
+        "time": "21:00",
+        "displayTime": "9:00 pm",
+        "reserved": false
+    },
+    {
+        "time": "22:00",
+        "displayTime": "10:00 pm",
+        "reserved": false
+    },
+    {
+        "time": "23:00",
+        "displayTime": "11:00 pm",
+        "reserved": false
+    },
+    {
+        "time": "24:00",
+        "displayTime": "12:00 am",
+        "reserved": false
+    }
+]

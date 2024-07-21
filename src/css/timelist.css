@@ -1,0 +1,11 @@
+.time-list {
+    text-align: center;
+    width: 400px;
+}
+.time-list .time {
+    border: black solid 1px;
+    padding: 20px;
+}
+.time-list .time.active {
+    background-color: rgb(195, 195, 195);
+}
