@@ -21,8 +21,7 @@ const TimeList = (props) => {
         <div className="time-list">
         {times.map((time, idx) => (
             <div key={idx} className={"time" + (time.reserved === true ? " active" : "")}>
-                {time.displayTime}
-                {time.reserved}
+                <span>{time.displayTime}</span>
             </div>
         ))}
         </div>

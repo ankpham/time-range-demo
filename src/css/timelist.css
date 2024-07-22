@@ -1,7 +1,7 @@
 .time-list {
-    text-align: center;
     width: 500px;
     margin: auto;
+    padding-top: 15px;
     overflow: scroll;
     height: 500px;
     font-family: Roboto, Helvetica, Arial, sans-serif;
@@ -17,15 +17,33 @@
 }
 
 .time-list .time {
-    border-bottom: rgb(156, 156, 156) solid 1px;
-    padding: 20px;
+    border-bottom: dashed rgb(0, 0, 0) 2px;
+    padding: 0 20px 60px 15px;
     font-size: 20px;
     color: rgb(0, 0, 0);
+    line-height: 0;
 }
+
+.time-list .time:first-child {
+    border-top: rgb(0, 0, 0) dashed 2px;
+}
+
+.time-list .time:last-child {
+    border: none;
+    padding-bottom: 0;
+}
+
 .time-list .time.active {
     background-color: #e10101 !important;
 }
 
 .time-list .time:nth-child(odd) {
     background-color: rgb(246, 245, 245);
+}
+
+.time-list .time span {
+    padding: 2px 5px 2px 5px;
+    background-color: rgb(255, 255, 255);
+    border: solid 2px rgb(157, 157, 157);
+    border-radius: 15px;
 }
