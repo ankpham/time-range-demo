@@ -6,6 +6,7 @@ import isBetween from 'dayjs/plugin/isBetween';
 import TextField from '@mui/material/TextField';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
+import TimeList from '../components/TimeList';
 
 dayjs.extend(isBetween);
 
@@ -26,7 +27,7 @@ const TimeRangePicker = () => {
         dayjs(endTime).isBetween(range.startTime, range.endTime, null, '(]')//Checks if either the start time or end time is conflicting with the existing start times and end times 
       );
     });
-
+    
     if (!isExcluded) {
       setTimeRanges([...timeRanges, newRange]);//Same Thing, set what time ranges get displayed
       setExcludedRanges([...excludedRanges, newRange]);//Same
@@ -66,6 +67,7 @@ const TimeRangePicker = () => {
           ))}
         </ul>
       </Box>
+      <TimeList ranges={excludedRanges}/>
     </LocalizationProvider>
   );
 };

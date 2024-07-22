@@ -8,7 +8,6 @@ const App = () => {
     <div>
       <h1>Time Range Picker with Exclusions</h1>
       <TimeRangePicker />
-      <TimeList/>
     </div>
   );
 };
