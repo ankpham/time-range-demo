@@ -1,11 +1,31 @@
 .time-list {
     text-align: center;
-    width: 400px;
+    width: 500px;
+    margin: auto;
+    overflow: scroll;
+    height: 500px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    border: rgb(122, 122, 122) solid 3px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 1px 1px 8px 1px rgb(153, 153, 153);
 }
+
+.time-list:hover {
+    border-color: rgb(182, 45, 45);
+}
+
 .time-list .time {
-    border: black solid 1px;
+    border-bottom: rgb(156, 156, 156) solid 1px;
     padding: 20px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
 }
 .time-list .time.active {
-    background-color: rgb(195, 195, 195);
+    background-color: #e10101 !important;
+}
+
+.time-list .time:nth-child(odd) {
+    background-color: rgb(240, 240, 240);
 }

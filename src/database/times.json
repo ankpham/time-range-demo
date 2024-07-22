@@ -2,7 +2,7 @@
     {
         "time": "0:00",
         "displayTime": "12:00 am",
-        "reserved": false
+        "reserved": true
     },
     {
         "time": "0:30",
