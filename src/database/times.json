@@ -1,252 +1,252 @@
 [
     {
         "time": "0:00",
-        "displayTime": "12:00 am",
+        "displayTime": "12:00 AM",
         "reserved": false
     },
     {
         "time": "0:30",
-        "displayTime": "12:30 am",
+        "displayTime": "12:30 AM",
         "reserved": false
     },
     {
         "time": "1:00",
-        "displayTime": "1:00 am",
+        "displayTime": "1:00 AM",
         "reserved": false
     },
     {
         "time": "1:30",
-        "displayTime": "1:30 am",
+        "displayTime": "1:30 AM",
         "reserved": false
     },
     {
         "time": "2:00",
-        "displayTime": "2:00 am",
+        "displayTime": "2:00 AM",
         "reserved": false
     },
     {
         "time": "2:30",
-        "displayTime": "2:30 am",
+        "displayTime": "2:30 AM",
         "reserved": false
     },
     {
         "time": "3:00",
-        "displayTime": "3:00 am",
+        "displayTime": "3:00 AM",
         "reserved": false
     },
     {
         "time": "3:30",
-        "displayTime": "3:30 am",
+        "displayTime": "3:30 AM",
         "reserved": false
     },
     {
         "time": "4:00",
-        "displayTime": "4:00 am",
+        "displayTime": "4:00 AM",
         "reserved": false
     },
     {
         "time": "4:30",
-        "displayTime": "4:30 am",
+        "displayTime": "4:30 AM",
         "reserved": false
     },
     {
         "time": "5:00",
-        "displayTime": "5:00 am",
+        "displayTime": "5:00 AM",
         "reserved": false
     },
     {
         "time": "5:30",
-        "displayTime": "5:30 am",
+        "displayTime": "5:30 AM",
         "reserved": false
     },
     {
         "time": "6:00",
-        "displayTime": "6:00 am",
+        "displayTime": "6:00 AM",
         "reserved": false
     },
     {
         "time": "6:30",
-        "displayTime": "6:30 am",
+        "displayTime": "6:30 AM",
         "reserved": false
     },
     {
         "time": "7:00",
-        "displayTime": "7:00 am",
+        "displayTime": "7:00 AM",
         "reserved": false
     },
     {
         "time": "7:30",
-        "displayTime": "7:00 am",
+        "displayTime": "7:00 AM",
         "reserved": false
     },
     {
         "time": "8:00",
-        "displayTime": "8:00 am",
+        "displayTime": "8:00 AM",
         "reserved": false
     },
     {
         "time": "8:30",
-        "displayTime": "8:30 am",
+        "displayTime": "8:30 AM",
         "reserved": false
     },
     {
         "time": "9:00",
-        "displayTime": "9:00 am",
+        "displayTime": "9:00 AM",
         "reserved": false
     },
     {
         "time": "9:30",
-        "displayTime": "9:30 am",
+        "displayTime": "9:30 AM",
         "reserved": false
     },
     {
         "time": "10:00",
-        "displayTime": "10:00 am",
+        "displayTime": "10:00 AM",
         "reserved": false
     },
     {
         "time": "10:30",
-        "displayTime": "10:30 am",
+        "displayTime": "10:30 AM",
         "reserved": false
     },
     {
         "time": "11:00",
-        "displayTime": "11:00 am",
+        "displayTime": "11:00 AM",
         "reserved": false
     },
     {
         "time": "11:30",
-        "displayTime": "11:30 am",
+        "displayTime": "11:30 AM",
         "reserved": false
     },
     {
         "time": "12:00",
-        "displayTime": "12:00 pm",
+        "displayTime": "12:00 AM",
         "reserved": false
     },
     {
         "time": "12:30",
-        "displayTime": "12:30 pm",
+        "displayTime": "12:30 PM",
         "reserved": false
     },
     {
         "time": "13:00",
-        "displayTime": "1:00 pm",
+        "displayTime": "1:00 PM",
         "reserved": false
     },
     {
         "time": "13:30",
-        "displayTime": "1:30 pm",
+        "displayTime": "1:30 PM",
         "reserved": false
     },
     {
         "time": "14:00",
-        "displayTime": "2:00 pm",
+        "displayTime": "2:00 PM",
         "reserved": false
     },
     {
         "time": "14:30",
-        "displayTime": "2:30 pm",
+        "displayTime": "2:30 PM",
         "reserved": false
     },
     {
         "time": "15:00",
-        "displayTime": "3:00 pm",
+        "displayTime": "3:00 PM",
         "reserved": false
     },
     {
         "time": "15:30",
-        "displayTime": "3:30 pm",
+        "displayTime": "3:30 PM",
         "reserved": false
     },
     {
         "time": "16:00",
-        "displayTime": "4:00 pm",
+        "displayTime": "4:00 PM",
         "reserved": false
     },
     {
         "time": "16:30",
-        "displayTime": "4:30 pm",
+        "displayTime": "4:30 PM",
         "reserved": false
     },
     {
         "time": "17:00",
-        "displayTime": "5:00 pm",
+        "displayTime": "5:00 PM",
         "reserved": false
     },
     {
         "time": "17:30",
-        "displayTime": "5:30 pm",
+        "displayTime": "5:30 PM",
         "reserved": false
     },
     {
         "time": "18:00",
-        "displayTime": "6:00 pm",
+        "displayTime": "6:00 PM",
         "reserved": false
     },
     {
         "time": "18:30",
-        "displayTime": "6:30 pm",
+        "displayTime": "6:30 PM",
         "reserved": false
     },
     {
         "time": "19:00",
-        "displayTime": "7:00 pm",
+        "displayTime": "7:00 PM",
         "reserved": false
     },
     {
         "time": "19:30",
-        "displayTime": "7:30 pm",
+        "displayTime": "7:30 PM",
         "reserved": false
     },
     {
         "time": "20:00",
-        "displayTime": "8:00 pm",
+        "displayTime": "8:00 PM",
         "reserved": false
     },
     {
         "time": "20:30",
-        "displayTime": "8:30 pm",
+        "displayTime": "8:30 PM",
         "reserved": false
     },
     {
         "time": "21:00",
-        "displayTime": "9:00 pm",
+        "displayTime": "9:00 PM",
         "reserved": false
     },
     {
         "time": "21:30",
-        "displayTime": "9:30 pm",
+        "displayTime": "9:30 PM",
         "reserved": false
     },
     {
         "time": "22:00",
-        "displayTime": "10:00 pm",
+        "displayTime": "10:00 PM",
         "reserved": false
     },
     {
         "time": "22:30",
-        "displayTime": "10:30 pm",
+        "displayTime": "10:30 PM",
         "reserved": false
     },
     {
         "time": "23:00",
-        "displayTime": "11:00 pm",
+        "displayTime": "11:00 PM",
         "reserved": false
     },
     {
         "time": "23:30",
-        "displayTime": "11:30 pm",
+        "displayTime": "11:30 PM",
         "reserved": false
     },
     {
         "time": "24:00",
-        "displayTime": "12:00 am",
+        "displayTime": "12:00 AM",
         "reserved": false
     },
     {
         "time": "24:30",
-        "displayTime": "12:30 am",
+        "displayTime": "12:30 AM",
         "reserved": false
     }
 ]
