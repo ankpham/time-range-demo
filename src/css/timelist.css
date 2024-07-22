@@ -34,7 +34,7 @@
 }
 
 .time-list .time.active {
-    background-color: #e10101 !important;
+    background-color: #ff9999 !important;
 }
 
 .time-list .time:nth-child(odd) {
