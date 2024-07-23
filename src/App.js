@@ -1,6 +1,5 @@
 import React from 'react';
 import TimeRangePicker from './pages/TimeRangePicker';
-import TimeList from './components/TimeList';
 import './App.css'
 
 const App = () => {
